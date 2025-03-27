@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ApexCybernetics
 - 👀 I’m interested in Software Engineer and AI
 - 🌱 I’m currently learning Web Developing
-- 💞️ I’m looking to collaborate on creating my personal website
+- 💞️ I’m looking to collaborate on creating personal website MyWiki
 - 📫 How to reach me matmusoevmuhammadjon@outlook.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
