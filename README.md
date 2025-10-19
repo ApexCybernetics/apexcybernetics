@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Developing
 - 💞️ I’m looking to collaborate on creating personal website MyWiki
 - 📫 How to reach me matmusoevmuhammadjon@outlook.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
